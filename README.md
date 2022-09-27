@@ -39,6 +39,7 @@ Youtube <br />
 1) Lex <br />
      1. Programming Fundamentals using Java <br />
      2. Efficent Coding <br />
+     3. Scala Programming <br />
 2) Simplilearn <br />
      1. Java Certification course <br />
 3) Pinnacle Data Science Workshop Infosys <br />    
